@@ -1,0 +1,10 @@
+{
+  "program": {
+    "portable": {
+      "pnacl-translate": {
+        "url": "gamepad.pexe",
+        "optlevel": 0
+      }
+    }
+  }
+}

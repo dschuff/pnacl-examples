@@ -1,0 +1,10 @@
+{
+  "program": {
+    "portable": {
+      "pnacl-translate": {
+        "url": "mouse_lock.pexe",
+        "optlevel": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "program": {
+    "portable": {
+      "pnacl-translate": {
+        "url": "graphics_3d.pexe",
+        "optlevel": 0
+      }
+    }
+  }
+}

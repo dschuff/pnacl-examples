@@ -1,0 +1,10 @@
+{
+  "program": {
+    "portable": {
+      "pnacl-translate": {
+        "url": "websocket.pexe",
+        "optlevel": 0
+      }
+    }
+  }
+}

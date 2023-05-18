@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "description": "Portable Native Client examples from the SDK",
+   "icons": {
+      "128": "pnacl_examples_icon128.png",
+      "16": "pnacl_examples_icon16.png",
+      "48": "pnacl_examples_icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD6ruUim6M2gX7kICUe/gki+Q03/dvyZX+k78rByrFFlkvaOZeOrCBEc39iCrH3Z3qrzI8zRYSIXqrRB22zw2fDaqalL7keIsFv4rD3qJUIxp7LtuBgCuc9nzcSA4IWvaFb1jAOpMvvriQ689JZJre6jKcKksNbPeS+/SKHqsPSUQIDAQAB",
+   "manifest_version": 2,
+   "name": "PNaCl Examples",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.12179"
+}

@@ -1,0 +1,10 @@
+{
+  "program": {
+    "portable": {
+      "pnacl-translate": {
+        "url": "NaClAMBullet.final.pexe",
+        "optlevel": 2
+      }
+    }
+  }
+}
